@@ -1,0 +1,1 @@
+Student Management System is a robust Spring Boot RESTful backend built with a clean layered architecture (Controller-Service-Repository-Model). It provides complete CRUD operations for student records, featuring Jakarta Bean Validation, custom data integrity checks (duplicate email prevention), and automated persistence using Spring Data JPA.
